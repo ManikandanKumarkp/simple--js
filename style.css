@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: red;
+  padding: 24px;
+  position: static;
+  visibility: inherit;
+ font-display:inherit;
+border-radius: 20px;
+border:2px solid black;
+-webkit-text-fill-color: white;
+}
